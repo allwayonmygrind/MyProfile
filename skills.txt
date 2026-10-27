@@ -1,0 +1,8 @@
+제가 사용가능한 기술 목록을 서술하겠습니다.
+cd
+ls
+git init
+git config user.name | git config --global user.name
+git config user.email | git config --global user.email
+git add "파일명" | git add .
+git commit -m '설명'
